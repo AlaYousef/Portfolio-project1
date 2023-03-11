@@ -1,18 +1,43 @@
-@import url('https://fonts.googleapis.com/css2?family=Noto+Serif+Lao&family=PT+Serif:ital,wght@1,400;1,700&family=Source+Serif+Pro:ital,wght@1,200;1,400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:ital@1&family=Noto+Serif+Lao&family=PT+Serif:ital,wght@1,400;1,700&family=Source+Serif+Pro:ital,wght@1,200;1,400&display=swap');
 * {
     margin:0 ;
     padding:0 ;
     border: none;
 }
 body{
-    font-family: pt, sans-serif;
+    font-family: merriweather, sans-serif;
     font-weight: 400;
+    color:chocolate;
 }
 /*headings and logo styles*/
 h1, h2{
     color: darkslategray;
+    font-style: italic;
 }
 #logo {
     float: left;
     font-size: 250%;
+    margin-left: 30px;
+}
+#menu {
+    font-size: 110%;
+}
+#menu, #logo {
+    line-height: 75px;
+}
+#menu li {
+    float: right;
+    list-style-type: none;
+    margin-right: 30px;
+}
+#menu a {
+   text-decoration: none;
+   color: inherit;
+}
+#menu a:hover {
+    border-bottom: 1px solid chocolate ;
+}
+.active {
+    border-bottom: 1px solid chocolate ;
+   
 }
