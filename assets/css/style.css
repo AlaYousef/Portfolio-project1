@@ -10,7 +10,7 @@ body{
     color:rgb(91, 45, 12);
 }
 /*headings and logo styles*/
-h1, h2{
+h1, h2, h3{
     color:rgb(97, 22, 22);
     font-style: italic;
 }
@@ -59,6 +59,7 @@ h1, h2{
 /*fair info style*/
 #fair-info {
     height: 500px;
+    text-align: center;
 }
 #info {
     margin: 20px 0;
@@ -69,11 +70,12 @@ h1, h2{
 #fair-info-image {
         width: 33%;
         margin: 0 auto;
+        padding-top: 15px;
 }
 #circle-container{
     width: 150px;
     height: 150px;
-    padding: 0px;
+    padding: 10px;
     border-style: solid;
     border-color: rgb(97, 22, 22);
     border-width: 1px;
@@ -107,4 +109,9 @@ h1, h2{
 span {
     font-weight: bold;
 
+}
+#time-date-info{
+    
+    float:inline-end;
+   
 }
