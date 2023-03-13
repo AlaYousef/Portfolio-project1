@@ -87,10 +87,12 @@ h1, h2, h3{
     clear: both;
     
 }
-#info-left p{
+#info-left p, #info-left ul {
     text-align: left;
     float: initial;
     font-size: 60%;
+    line-height: 1.7;
+    letter-spacing: .5px;
 
 }
 #info-left div{
@@ -113,6 +115,8 @@ span {
     text-align: left;
     float: initial;
     font-size: 60%;
+    line-height: 1.7;
+
 }
 #info-right div{
     padding-top: 15px;
