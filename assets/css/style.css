@@ -7,7 +7,7 @@
 body{
     font-family: merriweather, sans-serif;
     font-weight: 400;
-    color:rgb(57, 25, 2);
+    color:rgb(97, 22, 22);
 }
 /*headings and logo styles*/
 h1, h2, h3{
@@ -58,20 +58,27 @@ h1, h2, h3{
     
 }
 #cover-info {
-    width: 400px;
+    width: 50%;
     height: 200px;
 
     padding-top: 20px;
     padding-left: 10px;
     text-align: center;
+    font-size: 150%;
 
-    background-color: rgba(251, 123, 123, 0.2);
+    background-color: rgba(169, 119, 119, 0.2);
 
-    top: 20%;
-    left: 400px;
+    top: 25%;
+    left: 300px;
 
     position: absolute;
     overflow: visible;
+
+}
+#cover-info a {
+    color: rgb(97, 22, 22);
+    font-size: inherit;
+    padding-top: 20px;
 }
 /*fair info style*/
 #fair-info {
@@ -121,13 +128,16 @@ span {
 #info-right div{
     padding-top: 15px;
 }
+#info-right iframe{
+    padding-top: 10px;
+}
 /* Footer */
 
 footer{
     height: 50px;
 }
 #footer-section {
-    background-color:rgba(210,105,30,.3);
+    background-color:rgb(97, 22, 22);
     height: 50px;
     margin-top: 150px;
     
