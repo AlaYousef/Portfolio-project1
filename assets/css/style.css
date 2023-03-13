@@ -13,6 +13,7 @@ body{
 h1, h2, h3{
     color:rgb(97, 22, 22);
     font-style: italic;
+    
 }
 #logo {
     float: left;
@@ -64,7 +65,7 @@ h1, h2, h3{
     padding-left: 10px;
     text-align: center;
 
-    background-color: rgba(252, 127, 125, 0.2);
+    background-color: rgba(247, 101, 98, 0.2);
 
     top: 20%;
     left: 400px;
@@ -72,17 +73,47 @@ h1, h2, h3{
     position: absolute;
     overflow: visible;
 }
-#cover-info > h2{
-
-    
-}
 /*fair info style*/
 #fair-info {
     height: 500px;
-    text-align: center;
+    
 }
-#info {
+#info-left{
+    width:40%;
     margin: 20px 0;
-    text-align: center;
+    float: left;
     font-size: 200%;
+    padding-left: 50px;
+    clear: both;
+    
+}
+#info-left p{
+    text-align: left;
+    float: initial;
+    font-size: 60%;
+
+}
+#info-left div{
+    padding-top: 15px;
+}
+span {
+    font-weight: bold;
+
+}
+#info-right{
+    width:40%;
+    margin: 20px 0;
+    float: right;
+    font-size: 200%;
+    padding-right: 50px;
+   
+   
+}
+#info-right p {
+    text-align: left;
+    float: initial;
+    font-size: 60%;
+}
+#info-right div{
+    padding-top: 15px;
 }
