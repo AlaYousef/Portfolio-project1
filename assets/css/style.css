@@ -65,7 +65,7 @@ h1, h2, h3{
     padding-left: 10px;
     text-align: center;
 
-    background-color: rgba(247, 101, 98, 0.2);
+    background-color: rgba(251, 123, 123, 0.2);
 
     top: 20%;
     left: 400px;
@@ -120,4 +120,34 @@ span {
 }
 #info-right div{
     padding-top: 15px;
+}
+/* Footer */
+
+footer{
+    height: 50px;
+}
+#footer-section {
+    background-color:rgba(210,105,30,.3);
+    height: 50px;
+    margin-top: 150px;
+    
+    position: static;
+    bottom: 0;
+    right: 0;
+  width: 100%
+ 
+}
+.social-networks{
+    text-align: center;
+
+}
+
+.social-networks li{
+    display: inline;
+}
+.social-networks i{
+    font-size: 160%;
+    margin: 1%;
+    
+    color: #fcfbfb;
 }
