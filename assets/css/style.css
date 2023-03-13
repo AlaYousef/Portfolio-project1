@@ -51,7 +51,7 @@ h1, h2, h3{
 #book-image {
     height: 550px;
     width: 100%;
-    background-image:url('../images/book-image.jpg');
+    background-image:url('../images/book-image.webp');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
