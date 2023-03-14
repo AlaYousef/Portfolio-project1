@@ -141,12 +141,12 @@ footer{
 #footer-section {
     background-color:rgb(97, 22, 22);
     height: 50px;
-    margin-top: 150px;
+    margin-top:5px;
     
     position: static;
     bottom: 0;
     right: 0;
-  width: 100%
+    width: 100%
  
 }
 .social-networks{
@@ -162,4 +162,31 @@ footer{
     margin: 1%;
     
     color: #fcfbfb;
+}
+/*contact us style*/
+#contact-section{
+    height: 100%;
+    width: 100%;
+    overflow: hidden;
+   
+}
+#cover-contact{
+    width: 50%;
+    height: 80%;
+
+    padding-top: 15px;
+    padding-left: 10px;
+    text-align: center;
+    font-size: 150%;
+    border: 1px solid rgb(97, 22, 22);
+    border-radius: 10px;
+    background-color: rgba(169, 119, 119, 0.2);
+
+    top: 20%;
+    left: 300px;
+
+    position: absolute;
+    overflow: visible;   
+}#cover-contact form{
+    text-align: left;
 }
