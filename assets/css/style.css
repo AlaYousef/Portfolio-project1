@@ -87,6 +87,7 @@ h1, h2, h3{
 }
 #info-left{
     width:40%;
+    height:80% ;
     margin: 20px 0;
     float: left;
     font-size: 200%;
@@ -111,6 +112,7 @@ span {
 }
 #info-right{
     width:40%;
+    height:80% ;
     margin: 20px 0;
     float: right;
     font-size: 200%;
