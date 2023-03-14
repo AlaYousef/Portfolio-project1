@@ -45,20 +45,20 @@
         <div id="cover-contact">
             <h3>Contact us</h3>
             <div id="form">
-            <form action="https://formdump.codeinstitute.net/" method="post">
+            <form action="https://formdump.codeinstitute.net/" method="post" onsubmit="myFunction()">
                 <fieldset >
                    
-                    <label for="full-name">Your Full Name:</label><br>
+                    <label for="full-name" >Your Full Name:</label><br>
                     <input type="text" name="full-name" id="full-name" placeholder=" *Your Full Name" class="contact-input margin-contact-input" required>
-                    <br>
+                    <br><br>
                     <label for="email">Email Adress:</label><br>
                     <input type="email" name="email" id="email" placeholder=" *Your Email" class="contact-input margin-contact-input" required>
-                    <br>
+                    <br><br>
                     <label for="message">Your Message</label>
                     <br>
-                    <textarea id="message"  rows="16" name="message" placeholder=" *Your Message" class="margin-contact-input" required></textarea>
+                    <textarea id="message"  rows="12" name="message" placeholder=" *Your Message" class="margin-contact-input" required></textarea>
                     <br>
-                    <button type="submit">Send!</button>
+                    <button type="submit" id="demo">Send</button>
                 </fieldset>
                 
             </form>
@@ -83,6 +83,11 @@
 
 <!-- Font awesome script -->
 <script src="https://kit.fontawesome.com/9b10509272.js" crossorigin="anonymous"></script>
+<script>
+    function myFunction() {
+        alert("Your message was sent");
+    }
+    </script>
     
 </body>
 </html>
