@@ -171,22 +171,41 @@ footer{
    
 }
 #cover-contact{
-    width: 50%;
+    width: 40%;
     height: 80%;
 
-    padding-top: 15px;
-    padding-left: 10px;
+    padding-top: 20px;
     text-align: center;
     font-size: 150%;
     border: 1px solid rgb(97, 22, 22);
     border-radius: 10px;
     background-color: rgba(169, 119, 119, 0.2);
 
-    top: 20%;
-    left: 300px;
+    top: 15%;
+    left: 30%;
+    bottom: 15%;
 
     position: absolute;
-    overflow: visible;   
-}#cover-contact form{
+    overflow: visible;  
+
+}
+form{
+    position:static;
+    padding-top: 10px;
+    padding-left: 10%;
+    font-size: 80%;
     text-align: left;
+}
+
+.contact-input {
+    width: 90%;
+    height: 30px;
+    
+}
+.margin-contact-input{
+    margin-top: 10px;
+}
+textarea {
+    width: 90%;
+    
 }

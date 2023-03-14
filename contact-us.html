@@ -44,16 +44,25 @@
         <div id="book-image"></div>        
         <div id="cover-contact">
             <h3>Contact us</h3>
+            <div id="form">
             <form action="https://formdump.codeinstitute.net/" method="post">
-                <fieldset>
+                <fieldset >
+                   
+                    <label for="full-name">Your Full Name:</label><br>
+                    <input type="text" name="full-name" id="full-name" placeholder=" *Your Full Name" class="contact-input margin-contact-input" required>
+                    <br>
+                    <label for="email">Email Adress:</label><br>
+                    <input type="email" name="email" id="email" placeholder=" *Your Email" class="contact-input margin-contact-input" required>
+                    <br>
                     <label for="message">Your Message</label>
                     <br>
-                    <textarea id="message" cols="50" rows="10" name="message" placeholder="Your Message"></textarea>
+                    <textarea id="message"  rows="16" name="message" placeholder=" *Your Message" class="margin-contact-input" required></textarea>
                     <br>
                     <button type="submit">Send!</button>
                 </fieldset>
                 
             </form>
+        </div>
         </div>
                
         
