@@ -228,6 +228,26 @@ button {
   }
   /*about-us style*/
   #about-us-section{
+    height: 480px;
+    width: 100%;
+    overflow: hidden;
+    background-color: rgba(158, 23, 23, 0.329);
+  }
+  #left-about-div {
+    height: inherit;
+    width: 40%;
+    float:left;
+    margin-top: 20px;
+    padding-left: 30px;
+    
+  }
+  #right-about-div{
+    height: inherit;
+    width: 40%;
+    float:right;
+    margin-top: 20px;
+    padding-right: 30px;
+    
     
   }
  
