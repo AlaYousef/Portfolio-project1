@@ -265,12 +265,19 @@ button {
     padding: 10px;
 
     overflow:visible;
+    box-sizing: border-box;
     
     
 
   }
   #about-img1-bg{
-    background-image: url('../images/book-image.webp');
+   
+    background-image: url('../images/arab-book-fair2.webp');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    border-radius: 10px;
+
     height: 100%;
     width: 100%;
   }
@@ -281,10 +288,23 @@ button {
     border:1px solid rgb(158, 23, 23);
     border-radius: 10px;
     display: block;
-    margin-top: 20px;
+    margin-top: 20px; 
+    padding: 10px;
+    
+    box-sizing: border-box;
     
     
-    
-    
+  }
+  #about-img2-bg{
+    background-image: url('../images/arab-book-fair.webp');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    border-radius: 10px;
+
+    height: 100%;
+    width: 100%;
+
+
   }
  
