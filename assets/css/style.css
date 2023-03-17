@@ -296,6 +296,7 @@ button {
     
     
   }
+  
   #about-img2-bg{
     background-image: url('../images/arab-book-fair.webp');
     background-size: cover;
@@ -327,11 +328,18 @@ button {
  }
  #publishing-houses-div li{
     
-    margin: .5%;
+    margin: .6%;
+    
     padding: 1%;
     display: inline-block;
 
  }
+ 
  #publishing-houses-div img{
     width: 200px;
  }
+ .img-hover:hover{
+    border:5px solid rgb(158, 23, 23);
+    box-sizing: border-box;
+ }
+
