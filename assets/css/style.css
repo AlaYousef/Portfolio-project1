@@ -172,7 +172,7 @@ footer{
 }
 #cover-contact{
     width: 40%;
-    height: 80%;
+    height: 90%;
 
     padding-top: 20px;
     text-align: center;
@@ -337,6 +337,7 @@ button {
  
  #publishing-houses-div img{
     width: 200px;
+    height: 150px;
  }
  .img-hover:hover{
     border:2px solid rgb(158, 23, 23);

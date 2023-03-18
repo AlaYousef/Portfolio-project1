@@ -22,6 +22,9 @@
        <nav>
             <ul id="menu">
                 <li>
+                    <a href="publishers.html"> Publishers</a>
+                </li>
+                <li>
                    
                     <a href="about-us.html"><i class="fa-solid fa-address-card"></i> About us</a>
                 </li>
@@ -29,9 +32,7 @@
                 <li>
                     <a href="contact-us.html" class="active"><i class="fa-solid fa-envelope"></i> Contact us</a>
                 </li>
-                <li>
-                    <a href="#"><i class="fa-solid fa-language"></i> Language</a>
-                </li>
+                
                 <li>
                     <a href="index.html"><i class="fa-solid fa-house"></i> Home</a>
                 </li>
@@ -59,7 +60,8 @@
                     <br>
                     <textarea id="message"  rows="12" name="message" placeholder=" *Your Message" class="margin-contact-input" required></textarea>
                     <br>
-                    <button type="submit" id="demo">Send</button>
+                    <button type="submit" onclick="confirm()">Send</button>
+                    <p id="demo"></p>
                 </fieldset>
                 
             </form>
@@ -85,8 +87,8 @@
 <!-- Font awesome script -->
 <script src="https://kit.fontawesome.com/9b10509272.js" crossorigin="anonymous"></script>
 <script>
-    function myFunction() {
-        alert("Your message was sent");
+    function confirm() {
+        document.getElementById("demo").innerHTML = "Sent";
     }
     </script>
     
