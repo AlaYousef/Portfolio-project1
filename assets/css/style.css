@@ -239,8 +239,13 @@ button {
     float:left;
     margin-top: 20px;
     padding-left: 30px;
-    line-height: 1.5;
+    line-height: 1.6;
     
+  }
+  #left-about-div p {
+    margin-top: -10px;
+    letter-spacing: .4px;
+    word-spacing: .2px;
   }
   #right-about-div{
     height: inherit;
@@ -294,9 +299,7 @@ button {
     
     box-sizing: border-box;
     
-    
   }
-  
   #about-img2-bg{
     background-image: url('../images/arab-book-fair.webp');
     background-size: cover;
@@ -309,6 +312,8 @@ button {
 
 
   }
+  
+  
  /*publishers page style*/
  #publishers-section{
     height: 480px;
