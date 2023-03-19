@@ -47,6 +47,7 @@ h1, h2, h3{
     height: 550px;
     width: 100%;
     overflow: hidden;
+    transform: scale();
 }
 #book-image {
     height: 550px;
