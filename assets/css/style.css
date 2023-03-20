@@ -246,7 +246,7 @@ button {
     background-color: rgba(158, 23, 23, 0.329);
     display: block;
   }
-  #about-up-div {
+  #about-info-div {
     
     height: 50%;
     width: 100%;
@@ -256,10 +256,10 @@ button {
 
     
   }
-  #about-up-div h2{
+  #about-info-div h2{
     margin-top: 20px;
   }
-  #about-up-div p {
+  #about-info-div p {
     
     padding-left: 30px;
     padding-right: 30px;
@@ -270,7 +270,7 @@ button {
   }
 
 
-  #about-down-div{
+  #about-bg-div{
     height: 50%;
     width: 100%;
     
@@ -279,36 +279,31 @@ button {
    
     
   }
-  .about-img-container {
+  
+    
+    
+
+  #about-animation-bg{
+    height: 100%;
     width: 100%;
-    height:100%;
-   
-    border:1px solid rgb(0, 0, 0);
-    border-radius: 10px;
-   
-    
-    margin-top: 20px;
-    padding: 10px;
-
-   
-    box-sizing: border-box;
-    
-    
-
-  }
-  #about-img1-bg{
    
     background-image: url('../images/arab-book-fair2.webp');
-    background-size: cover;
+    background-size:cover;
     background-position: center;
     background-repeat: no-repeat;
     border-radius: 10px;
 
-    height: 100%;
-    width: 100%;
+   	animation-name: animation;
+	animation-duration: 15s;
+	
   }
  
- 
+  @keyframes animation {
+    0%   { background-image: url("../images/arab-book-fair2.webp");}
+    25%  { background-image: url("../images/arab-book-fair.webp");}
+    50%  { background-image: url("../images/arab-book-fair2.webp");}
+    100% { background-image: url("../images/arab-book-fair.webp");}
+    }
   
  /*publishers page style*/
  #publishers-section{
