@@ -81,11 +81,6 @@ h1, h2, h3{
 
 }
 
-
-
-info{
-    font-size: smaller;
-}
 /*fair info style*/
 #fair-info {
     height: 500px;
@@ -248,7 +243,7 @@ button {
     height: 900px;
     width: 100%;
     overflow: hidden;
-    background-color: rgba(158, 23, 23, 0.329);
+    background-color: rgba(2, 53, 66, .1);
     display: block;
   }
   #about-bg-div{
@@ -309,10 +304,10 @@ button {
   
  /*publishers page style*/
  #publishers-section{
-    height: 480px;
+    height: 900px;
     width: 100%;
     overflow: hidden;
-    background-color: rgba(158, 23, 23, 0.329);
+    background-color: rgba(2, 53, 66, .1);
  }
  #publishers-header-div{
     height: 10%;
@@ -330,16 +325,18 @@ button {
     
     padding: 1%;
     display: inline-block;
+   
 
  }
  
  #publishing-houses-div img{
-    width: 200px;
-    height: 150px;
+    width: 250px;
+    height: 200px;
+    box-sizing: border-box;
  }
  .img-hover:hover{
-    border:2px solid rgb(158, 23, 23);
-    box-sizing: border-box;
+    border:1.5px solid rgb(2, 53, 66);
+    
  }
 /* Media queries */
 
