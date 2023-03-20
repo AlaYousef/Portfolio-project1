@@ -240,34 +240,41 @@ button {
 
   /*about-us style*/
   #about-us-section{
-    height: 480px;
+    height: 900px;
     width: 100%;
     overflow: hidden;
     background-color: rgba(158, 23, 23, 0.329);
+    display: block;
   }
-  #left-about-div {
-    height: inherit;
-    width: 40%;
-    float:left;
-    margin-top: 20px;
-    padding-left: 30px;
-    line-height: 1.6;
+  #about-up-div {
+    
+    height: 50%;
+    width: 100%;
+    
+    text-align: center;
+   
+
     
   }
-  #left-about-div p {
-    margin-top: -10px;
+  #about-up-div h2{
+    margin-top: 20px;
+  }
+  #about-up-div p {
+    
+    padding-left: 30px;
+    padding-right: 30px;
     letter-spacing: .5px;
     word-spacing: .2px;
+    
+    line-height: 1.6;
   }
 
-  #right-about-div{
-    height: inherit;
-    width: 40%;
-    float:right;
-    margin-top: 20px;
-    margin-bottom: 50px;
-    padding-right: 30px;
-    display: block;
+
+  #about-down-div{
+    height: 50%;
+    width: 100%;
+    
+    text-align: center;
     
    
     
