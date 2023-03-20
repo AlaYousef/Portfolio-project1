@@ -164,13 +164,14 @@ footer{
     
     color: #fcfbfb;
 }
-/*contact us style*/
+/*contact us page style*/
 #contact-section{
     height: 100%;
     width: 100%;
     overflow: hidden;
    
 }
+/*form cover content style*/
 #cover-contact{
     width: 40%;
     height: 82%;
@@ -227,6 +228,7 @@ button {
   button:hover {
     box-shadow: 0 8px 16px 0 rgba(249, 245, 245, 0.2), 0 6px 20px 0 rgba(244, 240, 240, 0.19);
   }
+
   #demo {
     color: white;
     padding: 10px 32px;
@@ -252,9 +254,10 @@ button {
   }
   #left-about-div p {
     margin-top: -10px;
-    letter-spacing: .4px;
+    letter-spacing: .5px;
     word-spacing: .2px;
   }
+
   #right-about-div{
     height: inherit;
     width: 40%;
@@ -356,4 +359,49 @@ button {
     border:2px solid rgb(158, 23, 23);
     box-sizing: border-box;
  }
+/* Media queries */
+
+/* For large to medium screens sizes from 1200px wide and down */
+@media screen and (max-width: 1200px){
+    #book-outer{
+        width: 100%;
+        height: inherit;
+        margin: 0 auto;
+    }
+    #cover-info {
+           
+        position: absolute;
+        margin: 0 auto;
+        
+    }
+    #fair-info {
+        display:list-item;
+
+    }
+    #info-left{
+        width:90%;
+        height:fit-content;
+        
+        
+        
+    }
+    #info-right{
+        width:90%;
+        height:fit-content;
+        
+        
+       
+    }
+    iframe{
+        width:100%
+    }
+    
+    #footer-section {
+       
+       position: fixed;
+       bottom: 0;
+       width: 100%;
+      
+    }
+}
 
