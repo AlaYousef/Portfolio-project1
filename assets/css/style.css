@@ -246,43 +246,16 @@ button {
     background-color: rgba(158, 23, 23, 0.329);
     display: block;
   }
-  #about-info-div {
-    
-    height: 50%;
-    width: 100%;
-    
-    text-align: center;
-   
-
-    
-  }
-  #about-info-div h2{
-    margin-top: 20px;
-  }
-  #about-info-div p {
-    
-    padding-left: 30px;
-    padding-right: 30px;
-    letter-spacing: .5px;
-    word-spacing: .2px;
-    
-    line-height: 1.6;
-  }
-
-
   #about-bg-div{
-    height: 50%;
+    height: 40%;
     width: 100%;
     
     text-align: center;
-    display:inline-block;
+    
    
     
   }
   
-    
-    
-
   #about-animation-bg{
     height: 100%;
     width: 100%;
@@ -304,6 +277,30 @@ button {
     50%  { background-image: url("../images/arab-book-fair2.webp");}
     100% { background-image: url("../images/arab-book-fair.webp");}
     }
+  
+  #about-info-div {
+    
+    height: 50%;
+    width: 100%;
+    
+    text-align: center;
+   
+  }
+  #about-info-div h2{
+    margin-top: 30px;
+  }
+
+  #about-info-div p {
+    
+    padding-left: 30px;
+    padding-right: 30px;
+    letter-spacing: .5px;
+    word-spacing: .2px;
+    
+    line-height: 1.6;
+  }
+
+
   
  /*publishers page style*/
  #publishers-section{
