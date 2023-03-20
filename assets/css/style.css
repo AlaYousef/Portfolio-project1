@@ -44,7 +44,7 @@ h1, h2, h3{
 }
 /*book image style */
 #book-outer {
-    height: 550px;
+    height: 400px;
     width: 100%;
     overflow: hidden;
     transform: scale();
@@ -128,15 +128,16 @@ span {
 }
 #info-right iframe{
     padding-top: 10px;
+    width: 100%;
 }
 /* Footer */
 
 footer{
-    height: 50px;
+    height: 100px;
 }
 #footer-section {
     background-color:rgb(97, 22, 22);
-    height: 50px;
+    height: 100px;
     margin-top:5px;
     
     position: static;
