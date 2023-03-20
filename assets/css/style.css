@@ -146,8 +146,14 @@ footer{
     width: 100%
  
 }
+#footer-section p {
+    text-align: center;
+    color: #fcfbfb;
+
+}
 .social-networks{
     text-align: center;
+    
 
 }
 
