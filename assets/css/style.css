@@ -205,44 +205,63 @@ footer{
     width: 100%;
     display:inline-block;
 
+
     
 }
 #form-div label{
     font-size: 80%;
 }
 #inputs-fieldset{
-    margin-top: 30px;
+    margin-top: 10px;
+    height: 270px;
     float: left;
     width: 50%;
+    
 }
 #textarea-fieldset{
-    margin-top: 30px;
+    margin-top: 10px;
+    height: 270px;
     float: right;
     width: 50%;
+    
 }
 .contact-input {
     width: 90%;
     height: 30px;
+    border-radius: 10px;
     
 }
 .margin-contact-input{
-    margin-top: 5px;
+    margin-top: 3px;
 }
 
 textarea {
     width: 90%;
+    border-radius: 10px;
     
 }
+#div-button{
+ 
+    width: 100%;
+    height:fit-content ;
+    text-align:center;
+}
 button {
+    width: 20%;
+    margin-top: 20px;
+    padding: 10px 32px;
+   
     background-color:rgb(2, 53, 66);
     border-radius: 10px;
     color: white;
-    padding: 10px 32px;
+    
+    
     text-align: center;
     text-decoration: none;
-    display: inline-block;
+    
+  
     font-size: 16px;
-    margin: 5px 33%;
+    
     cursor: pointer;
    
   }
@@ -250,12 +269,7 @@ button {
     box-shadow: 0 8px 16px 0 rgba(249, 245, 245, 0.2), 0 6px 20px 0 rgba(244, 240, 240, 0.19);
   }
 
-  #demo {
-    color: white;
-    padding: 10px 32px;
-    text-align: center;
-    display: inline;
-  }
+  
 
   /*about-us style*/
   #about-us-section{
