@@ -314,7 +314,7 @@ button {
     height: 100%;
     width: 100%;
    
-    background-image: url('../images/arab-book-fair2.webp');
+    background-image: url('../images/animation3.jpg');
     background-size:cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -326,10 +326,10 @@ button {
   }
  
   @keyframes animation {
-    0%   { background-image: url("../images/arab-book-fair2.webp");}
-    25%  { background-image: url("../images/arab-book-fair.webp");}
-    50%  { background-image: url("../images/arab-book-fair2.webp");}
-    100% { background-image: url("../images/arab-book-fair.webp");}
+    0%   { background-image: url("../images/animation3.jpg");}
+    25%  { background-image: url("../images/animation6.jpg");}
+    50%  { background-image: url("../images/arab-book-fair.webp");}
+    100% { background-image: url("../images/animation3.jpg");}
     }
   
   #about-info-div {
