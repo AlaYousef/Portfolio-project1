@@ -192,42 +192,55 @@ footer{
 
 
 }
-#cover-contact h3,#cover-contact p {
+#heading{
     text-align: center;
-    margin-top: 10px;
-    font-size: 90%;
+    display: block;
+    padding-top: 10px;
+    
     margin-left: 10%;
     margin-right: 10%;
-    margin-bottom: 10px;
+    
+    
+}
+
+
+#heading p{
+    font-size: 80%;
 }
 
 #form-div{
     width: 100%;
+
     display:inline-block;
+   text-align: center;
+    padding: 10px;
+    
 
-
+    margin-top: 20px;
     
 }
 #form-div label{
     font-size: 80%;
 }
 #inputs-fieldset{
-    margin-top: 10px;
-    height: 270px;
+    
+    height: auto;
     float: left;
     width: 50%;
+   
     
 }
 #textarea-fieldset{
-    margin-top: 10px;
-    height: 270px;
+   
+    
+    height: auto;
     float: right;
     width: 50%;
     
 }
 .contact-input {
     width: 90%;
-    height: 30px;
+    height: 35px;
     border-radius: 10px;
     
 }
@@ -243,24 +256,28 @@ textarea {
 #div-button{
  
     width: 100%;
-    height:fit-content ;
+    height:auto ;
     text-align:center;
+    display: inline-block;
+ 
+    
 }
 button {
-    width: 20%;
-    margin-top: 20px;
+    width: 10%;
+   
+    
     padding: 10px 32px;
    
     background-color:rgb(2, 53, 66);
     border-radius: 10px;
     color: white;
     
-    
-    text-align: center;
     text-decoration: none;
+   
     
   
     font-size: 16px;
+    
     
     cursor: pointer;
    
