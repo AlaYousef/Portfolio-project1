@@ -183,8 +183,7 @@ footer{
 #cover-contact{
     width: 100%;
     height: 500px;
-
-   text-align: center;
+    
     
     font-size: 150%;
     
@@ -193,29 +192,45 @@ footer{
 
 
 }
-#cover-contact p {
+#cover-contact h3,#cover-contact p {
+    text-align: center;
     margin-top: 10px;
-    font-size: 80%;
+    font-size: 90%;
     margin-left: 10%;
     margin-right: 10%;
     margin-bottom: 10px;
 }
 
-form{
-    margin: 0 auto;
-}
+#form-div{
+    width: 100%;
+    display:inline-block;
 
-.contact-input {
+    
+}
+#form-div label{
+    font-size: 80%;
+}
+#inputs-fieldset{
+    margin-top: 30px;
+    float: left;
     width: 50%;
+}
+#textarea-fieldset{
+    margin-top: 30px;
+    float: right;
+    width: 50%;
+}
+.contact-input {
+    width: 90%;
     height: 30px;
     
 }
 .margin-contact-input{
-    margin-top: 10px;
+    margin-top: 5px;
 }
 
 textarea {
-    width: 50%;
+    width: 90%;
     
 }
 button {
