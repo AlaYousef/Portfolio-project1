@@ -373,7 +373,7 @@ button {
     margin-top: 30px;
     
     line-height: 1.5;
-
+    clear: both;
     text-align: center;
  }
  #publishing-houses-div li{
@@ -387,12 +387,16 @@ button {
  }
  
  #publishing-houses-div img{
-    width: 250px;
+    width: 330px;
     height: 200px;
     box-sizing: border-box;
+    border-radius: 10px;
+    columns: 3;
+    margin-left: 20px;
  }
  .img-hover:hover{
     border:1.5px solid rgb(2, 53, 66);
+    border-radius: 10px;
     
  }
 /* Media queries */
