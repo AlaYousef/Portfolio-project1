@@ -314,7 +314,7 @@ button {
     height: 100%;
     width: 100%;
    
-    background-image: url('../images/animation3.jpg');
+    background-image: url('../images/animation.webp');
     background-size:cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -326,10 +326,10 @@ button {
   }
  
   @keyframes animation {
-    0%   { background-image: url("../images/animation3.jpg");}
-    25%  { background-image: url("../images/animation6.jpg");}
-    50%  { background-image: url("../images/arab-book-fair.webp");}
-    100% { background-image: url("../images/animation3.jpg");}
+    0%   { background-image: url("../images/animation.webp");}
+    25%  { background-image: url("../images/animation3.webp");}
+    50%  { background-image: url("../images/animation1.webp");}
+    100% { background-image: url("../images/animation.webp");}
     }
   
   #about-info-div {
