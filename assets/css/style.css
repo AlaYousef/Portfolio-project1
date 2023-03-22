@@ -205,18 +205,19 @@ footer{
 
 
 #heading p{
-    font-size: 80%;
+    font-size: 70%;
+    padding-top: 15px;
 }
 
 #form-div{
     width: 100%;
 
     display:inline-block;
-   text-align: center;
+    text-align: center;
     padding: 10px;
     
 
-    margin-top: 20px;
+    margin-top: 30px;
     
 }
 #form-div label{
@@ -272,14 +273,13 @@ button {
     
     padding: 10px 32px;
    
-    background-color:rgb(2, 53, 66);
+    background-color:white;
+    color:rgb(2, 53, 66);
     border-radius: 10px;
-    color: white;
-    
+    border: 2px solid rgb(2, 53, 66);;
+        
     text-decoration: none;
-   
-    
-  
+    font-weight: bold;
     font-size: 16px;
     
     
@@ -288,6 +288,9 @@ button {
   }
   button:hover {
     box-shadow: 0 8px 16px 0 rgba(4, 33, 95, 0.2), 0 6px 20px 0 rgba(6, 7, 96, 0.19);
+    background-color:rgb(2, 53, 66);
+    color: white;
+    border: 2px solid white;
   }
 
   
