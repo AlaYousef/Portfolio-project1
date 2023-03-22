@@ -484,31 +484,44 @@ button {
 }
 /* For small screens sizes from 800px wide and down */
 @media screen and (max-width: 800px){
+    #logo{
+        font-size:150%;
+    }
     #cover-info{
         
         position: absolute;
         height: fit-content;
         width: fit-content;
-    }
-    #info-left{
-        width:90%;
-        height:fit-content;
-        text-align: left;
-        padding-left: 0;
+        font-size: smaller;
     }
     #fair-info {
         width:90%;
-        height: 1000px;
-       display: block;
+        height: 1200px;
+        display: block;
+        clear: both;
+        height: fit-content;
+    }
+    #info-left{
+        width:100%;
+        margin: 0 auto;
+        
+        text-align: left;
+        padding-left: 0;
+        clear: both;
+    }
+    
         
        
-    }
+    
 
     #info-right{
-        width:90%;
-        height:max-content;
+        width:100%;
+        clear: both;
+        height: fit-content;
         margin-bottom: 50px;
-        margin:0 auto
+        margin:0 auto;
+        text-align: left;
+        padding-right: 0;
 
    
 }
