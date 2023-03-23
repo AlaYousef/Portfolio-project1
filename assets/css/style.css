@@ -537,15 +537,18 @@ button {
     
     #info-right{
         width:90%;
-      
+        padding-left: 30px;
         
-        height: fit-content;
+        
         margin-bottom: 50px;
        
         padding-top: 5px;
         margin-top: 5px;
 
    
+}
+iframe{
+    width: 90%;
 }
 #footer-section{
 
@@ -554,13 +557,54 @@ button {
 .social-networks i {
     margin: 5px;
     padding: 1%;
-    padding-top: 10px;
+    padding-top: 5px;
    
 }
 }
 /* For smaller screens sizes from 650px wide and down */
 
-@media screen and (max-width: 650px){
+@media screen and (max-width: 600px){
+   #logo{
+    margin-left: 2px;
+    font-size: 150%;
+    
+    
+   }
+   #menu{
+    margin-left: 0;
+    margin-right: 0;
+    font-size: 60%;
+    float: left;
+   }
+   #menu li {
+    margin-right: 5px;
+    margin-left: 5px;
+   }
+
+   #fair-info {
+    width:100%;
+    height: 1300px;
+    display: block;
+  
+    
+}
+#info-right{
+ 
+    padding-right: 25px;
+}
+
+  
+#footer-section{
+
+    position: fixed;
+}
+.social-networks i {
+   margin-top: 0;
+   padding-top: 10px;
+   
+    
+   
+}
     
 
 }
