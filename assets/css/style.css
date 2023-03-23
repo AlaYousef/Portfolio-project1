@@ -417,6 +417,7 @@ button {
     }
     #fair-info {
         display:list-item;
+        height: 900px;
 
     }
     #info-left{
@@ -451,7 +452,7 @@ button {
     #menu{
         clear: left;
         float: left;
-        margin-left: 0px; 
+        margin-left: 30px; 
         margin-bottom: 20px;
         line-height: 25px;
     }
@@ -461,10 +462,10 @@ button {
         height: fit-content;
     }
     #fair-info {
-        width:90%;
+        width:100%;
         height: 1000px;
         margin: 0 auto;
-        text-align: center;
+        text-align: left;
     }
     #info-left{
         width:90%;
@@ -486,22 +487,30 @@ button {
 @media screen and (max-width: 800px){
     
     #logo{
-        font-size:190%;
+      
         width: 100%;
-        margin-left: 0;
+        margin-left: 30px;
     }
    
     #menu{
               
         letter-spacing: initial;
         line-height: initial;
-        font-size: 9px;
+        
         display:block;
         position:sticky;
-        scroll-behavior: smooth;
+       
+        margin-left: 30px; 
         
     }
-    
+    #book-outer {
+        width: 100%;
+        
+    }
+    #book-image{
+        width:100%;
+        position: relative;
+    }
     #cover-info{
         
         position: absolute;
@@ -510,40 +519,48 @@ button {
         font-size: smaller;
     }
     
+    
     #fair-info {
         width:100%;
         height: 1000px;
         display: block;
-        clear: both;
-        font-size: 80%;
+        text-align: left;
+       
         
     }
     #info-left{
-        width:100%;
-        margin: 0 auto;
-        
-        text-align: left;
-        padding-left: 0;
-        clear: both;
+        width:90%;
+       
         padding-top: 5px;
+        padding-left: 30px;
     }
     
     #info-right{
-        width:100%;
-        clear: both;
+        width:90%;
+      
+        
         height: fit-content;
         margin-bottom: 50px;
-        margin:0 auto;
-        text-align: left;
-        padding-right: 0;
+       
         padding-top: 5px;
         margin-top: 5px;
 
    
 }
+#footer-section{
+
+    position: relative;
+}
 .social-networks i {
     margin: 5px;
-padding: 1%;
-padding-top: 10px;
+    padding: 1%;
+    padding-top: 10px;
+   
 }
+}
+/* For smaller screens sizes from 650px wide and down */
+
+@media screen and (max-width: 650px){
+    
+
 }
