@@ -486,11 +486,13 @@ button {
 /* For small screens sizes from 800px wide and down */
 @media screen and (max-width: 800px){
     
+
     #logo{
       
         width: 100%;
         margin-left: 30px;
     }
+
    
     #menu{
               
@@ -499,17 +501,20 @@ button {
         
         display:block;
         position:sticky;
-       
+        
         margin-left: 30px; 
         
     }
     #book-outer {
-        width: 100%;
+        width:110%;
+        padding-right: 0;
+        margin-right: 0;
         
     }
     #book-image{
         width:100%;
         position: relative;
+        padding-right: 0;
     }
     #cover-info{
         
@@ -549,10 +554,12 @@ button {
 }
 iframe{
     width: 90%;
+    
 }
 #footer-section{
 
     position: relative;
+    width: 110%;
 }
 .social-networks i {
     margin: 5px;
