@@ -486,6 +486,38 @@ button {
         margin: 0 auto;
        
      }
+     /*contact-us page style-------*/
+     #contact-section{
+        height: 950px;
+     }
+     #form-div{
+        height: 950px;
+     }
+
+    #cover-contact{
+       height: fit-content;
+       
+     }
+     
+     #div-button{
+ 
+        width: 100%;
+        height:auto ;
+        text-align:center;
+        display: inline-block;
+        
+          
+     
+        
+    }
+    button {
+        padding: 10px 25px;
+        
+        
+        
+       
+          
+      }
 }
 /* For medium screens sizes from 950px wide and down */
 @media screen and (max-width: 950px){
@@ -529,6 +561,29 @@ button {
 #about-us-section{
     width: 100%;
 }
+/*contact-us.html------*/
+/*form section */
+#contact-section{
+    height: 1000px;
+    
+  }
+  #form-div{
+    height: 1000px;
+    
+  }
+  #div-button{
+     width: 100%;
+     height:auto ;
+     text-align:center;
+     display: inline-block;
+     
+  
+ }
+ button {
+    padding: 10px 20px;
+    width:15%;
+    
+  }
 
 }
 /* For small screens sizes from 800px wide and down */
@@ -635,7 +690,7 @@ button {
 
   #publishers-section{
     width: 110%;
-   max-width: 800%;
+  
     height: 1400px;
     
 }
@@ -646,6 +701,13 @@ button {
     text-align: center;
    
  }
+ /*contact-us.html style---------*/
+ #contact-section{
+    width: 110%;
+  
+    height: 1000px;
+    
+  }
 }
 /* For smaller screens sizes from 600px wide and down */
 @media screen and (max-width: 600px){
@@ -688,8 +750,13 @@ button {
 .social-networks i {
    margin-top: 0;
    padding-top: 10px;
-   
+} 
+ /*contact-us.html */
+ button{
+    padding: 10px 12px;
+    width:20%;
     
+  }   
    
 }
 /*about-us.html style ------------*/
@@ -720,10 +787,10 @@ button {
 
     
 
-}
+
 /* For smaller screens sizes from 400px wide and down */
 @media screen and (max-width: 400px){
-    /*publisher.html style*/
+    /*publisher.html style-----------*/
 #publishers-section{
     width: 110%;
    max-width: 800%;
@@ -742,4 +809,31 @@ button {
     
    
  }
+
+ /*contact-us.html style--------*/
+ #contact-section{
+    height: 1300px;
+    display: block;
+    
+  }
+ 
+  
+#inputs-fieldset {
+  text-align: center;
+    height: auto;
+   
+    width: 100%;
+}
+#textarea-fieldset {
+    display: contents;
+    width: 90%;
+    text-align: center;
+    
+}
+
+ button {
+    padding: 10px 10px;
+    width:20%;
+    
+  }
 }
