@@ -387,8 +387,7 @@ button {
  }
  
  #publishing-houses-div img{
-    width: 330px;
-    height: 200px;
+   
     box-sizing: border-box;
     border-radius: 10px;
     columns: 3;
@@ -448,6 +447,45 @@ button {
        width: 100%;
       
     }
+
+    /*publishers.html style*/
+    #publishers-section{
+        width:100%;
+        height: 900px;
+        
+    }
+    #publishers-header-div{
+        width:100%;
+        height:10%;
+
+        margin-top: 30px;
+    
+        line-height: 1.5;
+        clear: both;
+        text-align: center;
+    }
+    #publishing-houses-div{
+        height: 80%;
+        columns: 3;
+        display: inline-block;
+        text-align: center;
+       
+     }
+    #publishing-houses-div li{
+    
+        display: inline-block;
+       
+     }
+     
+     #publishing-houses-div img{
+        width:100%;
+        max-width: 300px;
+        height: 200;
+        box-sizing: border-box;
+        border-radius: 10px;
+        margin: 0 auto;
+       
+     }
 }
 /* For medium screens sizes from 950px wide and down */
 @media screen and (max-width: 950px){
@@ -495,7 +533,8 @@ button {
 }
 /* For small screens sizes from 800px wide and down */
 @media screen and (max-width: 800px){
-    
+    /*index.html style*/
+    /*header style*/
 
     #logo{
       
@@ -534,7 +573,7 @@ button {
         font-size: smaller;
     }
     
-    
+    /*fair.info section*/
     #fair-info {
         width:100%;
         height: 1000px;
@@ -592,10 +631,26 @@ button {
     
     
   }
-}
-/* For smaller screens sizes from 650px wide and down */
+  /*publisher.html style*/
 
+  #publishers-section{
+    width: 110%;
+   max-width: 800%;
+    height: 1400px;
+    
+}
+#publishing-houses-div{
+    height: 80%;
+    columns: 2;
+    display: inline-block;
+    text-align: center;
+   
+ }
+}
+/* For smaller screens sizes from 600px wide and down */
 @media screen and (max-width: 600px){
+/*index.html -------------*/
+/*header*/
    #logo{
     margin-left: 2px;
     font-size: 150%;
@@ -612,7 +667,7 @@ button {
     margin-right: 5px;
     margin-left: 5px;
    }
-
+/*fair-info section*/
    #fair-info {
     width:100%;
     height: 1300px;
@@ -625,7 +680,7 @@ button {
     padding-right: 25px;
 }
 
-  
+ /*footer section*/ 
 #footer-section{
 
     position: fixed;
@@ -637,6 +692,7 @@ button {
     
    
 }
+/*about-us.html style ------------*/
 #about-us-section{
     height: 1300px;
    
@@ -664,4 +720,26 @@ button {
 
     
 
+}
+/* For smaller screens sizes from 400px wide and down */
+@media screen and (max-width: 400px){
+    /*publisher.html style*/
+#publishers-section{
+    width: 110%;
+   max-width: 800%;
+    height: 2500px;
+    
+}
+#publishers-header-div{
+    height: 5%;
+}
+#publishing-houses-div{
+    height: 80%;
+    columns: 1;
+    display: inline-block;
+    text-align: center;
+   
+    
+   
+ }
 }
