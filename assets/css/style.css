@@ -808,6 +808,10 @@ button {
          width: 99%;
     
     }
+    #info-right{
+ 
+        padding-right: 10px;
+    }
     
     /*footer-section*/
     footer{
