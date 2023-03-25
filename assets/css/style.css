@@ -790,6 +790,19 @@ button {
 
 /* For smaller screens sizes from 400px wide and down */
 @media screen and (max-width: 400px){
+    /*index.html style------*/
+    /*header-section*/
+    #book-image {
+        width: 100%;
+    }
+    #cover-info{
+    padding-left: 0;
+    
+    }
+    /*footer-section*/
+    #footer-section{
+        width: 100%;
+    }
     /*publisher.html style-----------*/
 #publishers-section{
     width: 110%;
