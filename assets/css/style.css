@@ -807,12 +807,15 @@ button {
     }
     
     /*footer-section*/
+    footer{
+        height:50px;
+    }
     #footer-section{
         width: 99%;
-        height:70px;
-       
         
-        margin-top: 33px;
+       bottom: 0;
+        position: relative;
+        margin-top: 35px;
         
     }
     /*publisher.html style-----------*/
