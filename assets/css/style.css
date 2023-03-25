@@ -802,6 +802,7 @@ button {
     /*footer-section*/
     #footer-section{
         width: 100%;
+        position: fixed;
     }
     /*publisher.html style-----------*/
 #publishers-section{
