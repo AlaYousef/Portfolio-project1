@@ -801,7 +801,8 @@ button {
         position: relative;
     }
     #cover-info{
-    padding-left: 0;
+     
+    width: 99%;
     
     }
     /*footer-section*/
