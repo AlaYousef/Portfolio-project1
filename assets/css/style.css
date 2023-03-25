@@ -805,11 +805,15 @@ button {
          width: 99%;
     
     }
+    
     /*footer-section*/
     #footer-section{
-        width: 100%;
-        position: fixed;
+        width: 99%;
         height:70px;
+       
+        
+        margin-top: 33px;
+        
     }
     /*publisher.html style-----------*/
 #publishers-section{
