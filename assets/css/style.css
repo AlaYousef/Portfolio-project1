@@ -377,6 +377,9 @@ button {
     clear: both;
     text-align: center;
  }
+ #publishing-houses-div{
+    text-align: center;
+ }
  #publishing-houses-div li{
     
     margin: .6%;
