@@ -1,4 +1,10 @@
-![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
+# **Arabic Book Fair**
+Arabic book fair is an exhibition for Arab books in Sweden in Malmö city. The site targets Arabs in Sweden, where it will be useful to help in informing about the details of the annual exhibition that will be held in addition to help people to reserve books from arabs countries to be available in the exhibition. 
+
+
+Welcome to the journey through <a href="https://alayousef.github.io/Portfolio-project1/" target="_blank" rel="noopener">Arab Book Fair</a>
+
+![Wawas Woods responsive design](assets/readme-images/responsive.png)
 
 Welcome Ala Yousef,
 
