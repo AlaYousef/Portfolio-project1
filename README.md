@@ -11,16 +11,30 @@ Welcome to the journey through <a href="https://alayousef.github.io/Portfolio-pr
 
 ## CONTENTS
 
-* [Design](#design)
-  * [Colour Scheme](#colour-scheme)
-  * [Typography](#typography)
-  * [Imagery](#imagery)
-  * [Wireframes](#wireframes)
+* [**Design**](#design)
+  * [**Colour Scheme**](#colour-scheme)
+  * [**Typography**](#typography)
+  
 
-* [Features](#features)
-  * [General Features on Each Page](#general-features-on-each-page)
-  * [Future Implementations](#future-implementations)
-  * [Accessibility](#accessibility)
+* [**Features**](<#features>)
+    * [**Home page**](<#navigation-menu>)
+         * [Navigation menu](<#navigation-menu>)
+         * [Backround-cover-text](<#background-cover>)
+         * [Fair-info section](<#fair-info>)
+         * [Footer](<#footer>)
+    * [**About us page**](<#about-us>)
+        * About us 
+      
+            
+    * [**Contact us page**](<#contact-us>)
+       * Contact details
+       
+    
+    * [**Publishers page**](<#publishers>)
+        * Publishers houses
+
+    * [**Form Confirmation**](<#form-confirmation>)
+    * [**Future Features**](<#future-features>)
 
 * [Technologies Used](#technologies-used)
   * [Languages Used](#languages-used)
@@ -47,23 +61,76 @@ Welcome to the journey through <a href="https://alayousef.github.io/Portfolio-pr
 
 ### Colour Scheme
 
-The colour scheme which chosen is one based on blue colour in different shades. Blue considered one of the calm and comfort colors, carries the meanings of avoidence of tension and   ability to communicates with others. This is something that we want hopefully pass onto the user.
+The colour scheme which chosen is one based on blue colour in different shades. Blue considered one of the calm and comfort colors, carries the meanings of avoidence of tension and ability to communicates with others. This is something that we want hopefully pass onto the user. In addition to, foreground information is never distracted the backgrounds.
 
 ![Colour Palate image](assets/documentation/colour-pallet.png)
 
 ### Typography
-The fonts chosen were 'merriweather' for the headings and the body text.
+The fonts chosen were 'merriweather' with weight 400 Italic style for the headings and the body text.
 
 'Merriweather' was chosen to give the user a comfortable feeling while reading. It's easy, clear and understandable. This font is imported from [Google Fonts](https://fonts.google.com/specimen/Merriweather?query=Merriweather)
+[Back to top](<#contents>)
 
-### Imagery
+---
 
-Use this section to explain what sort of imagery you plan to use through your site.
+# Features
+Arab Book Fair site is set up to be simple, clear and easy to use. It contains many features that the user probably need such as a navigation bar, contact form and most importantly, the information that user is looking for will be found once he opens the site. The goal in general is to let the user feel comfortable and lucidity that what he want to know is exist in the site, clear, understandable and can obtain easily.
 
-### Wireframes
+## Existing Features  
+  * ### Navigation Menu
 
-Add the images or links for your wireframes here.
+    * Sited at the top of all the pages in the site at the right side, it is contains links to all the pages of the site to enable ease of movement from one page to another in addition to, the user can know easily what page he is currently on.
+    * The logo also is clickable and link to the home page.
 
-There are lots of different options to create your wireframes - Code Institute students can access [Balsamiq](https://balsamiq.com/) as part of the course.
+![Navigation bar image](assets/documentation/navigation.png)
+[Back to top](<#contents>)
 
-Some other options include [Figma](https://www.figma.com/), [AdobeXD](https://www.adobe.com/products/xd.html), [Sketch](https://www.sketch.com/?utm_source=google&utm_medium=cpc&adgroup=uxui&device=c&matchtype=e&utm_campaign=ADDICTMOBILE_SKETCH_GAD_DG_UK_T1_ALWAYS-ON_S_TRF_PROS_BRAND&utm_term=sketch&utm_source=google&utm_medium=cpc&utm_content=TOF_BRND__generic&hsa_acc=8710913982&hsa_cam=16831089317&hsa_grp=134620695759&hsa_ad=592060065319&hsa_src=g&hsa_tgt=kwd-14921750&hsa_kw=sketch&hsa_mt=e&hsa_net=adwords&hsa_ver=3&gclid=Cj0KCQjwr4eYBhDrARIsANPywCjRIFn93DMezYnsyE5Fic_8l8kynJtut0GYMU01TiohHjwziFtlH0gaAhteEALw_wcB) and [Mockup](https://apps.apple.com/us/app/mockup-sketch-ui-ux/id1527554407) to name just a few! Or you can even go old school and get those wireframes completed using pen and paper. Just snap an image of the completed wireframes to add the images to the README.
+  * ### Backround-cover-text
+
+      * Located on the background on the home page on right side. It was intended to allow user get a quick look about the fair details.
+
+![Covet-text image](assets/documentation/bg-covet-text.png)
+[Back to top](<#contents>)
+
+  * ### Fair-info section
+    * Fair info section lets the user know all details about the exhibition. Including the time, date and location, in addition to inforamtion about the activities that will be in the exhibition.
+
+    * An intended map will help the user to get the exact  location for the exhibition 
+
+![Fair-info image](assets/documentation/fair-info.png)
+[Back to top](<#contents>)
+
+
+* ### Footer
+    
+    * Footer section include links to the relevent social media sites for Arab Book Fair in Sweden. And the links to social media platforms will open in a new tab to allow easy of navigation for the user.
+    * The social media will help the user in research into Sweden Arab Book Fair pages in social media.
+    
+![Footer image](assets/documentation/footer.png)
+[Back to top](<#contents>)
+
+
+* ### About us page
+
+    * About us page give the user an overview about what is the arab book fair in Sweden, responsible parts and the reason for choosing the city in which it will be held.
+
+![About us image](assets/documentation/about.png)
+[Back to top](<#contents>)
+
+
+
+* ### Contact us page
+
+    * This page will allow the user to get contact to Arab book fair to inquire about something related to the exhibition or book a specific books to be available in the exhibition.
+    * The user will be asked to submit their full name, phone number, email address and the message he want.
+    * The user should fill out the form completly to be sent, otherwise he will be asked to enter the missing information.
+    
+![Contact Us page image](assets/documentation/contact.png)
+
+
+* ### Publishers page
+    * The publishers page will provide the user with supporting images withe the most imporatnt publishing houses that will participate in the exhibition.
+    * It provides a direct link that opens in a new tab back to see the books for each publishing houses that will be available in the exhibition.
+
+![Publishers page image](assets/documentation/publishers.png)
+

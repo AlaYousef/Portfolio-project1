@@ -395,7 +395,7 @@ button {
     box-sizing: border-box;
     border-radius: 10px;
     columns: 3;
-    margin-left: 20px;
+    
  }
  .img-hover:hover{
     border:1.5px solid rgb(2, 53, 66);
