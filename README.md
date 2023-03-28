@@ -135,8 +135,7 @@ Arab Book Fair site is set up to be simple, clear and easy to use. It contains m
 
 ## Future Features 
 
-* A 'Language' will be added in the navigation bar that would be help the users to translate the page into Arabic and Swedish to help users who doesn't know the English language.
-* This would make the site closer to the user and more understandable.
+* A 'Language' will be added in the navigation bar that would be help the users to translate the page into Arabic and Swedish to help users who doesn't know the English language. This would make the site closer to the user and more understandable.
 * 'Gallary' page will be added for each annual exhibition that includes images of different activities that  take place in the exhibition.
 
 [Back to top](<#contents>)
