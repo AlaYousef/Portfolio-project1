@@ -33,7 +33,6 @@ Welcome to the journey through <a href="https://alayousef.github.io/Portfolio-pr
     * [**Publishers page**](<#publishers>)
         * Publishers houses
 
-    * [**Form Confirmation**](<#form-confirmation>)
     * [**Future Features**](<#future-features>)
 
 * [Technologies Used](#technologies-used)
@@ -134,3 +133,25 @@ Arab Book Fair site is set up to be simple, clear and easy to use. It contains m
 
 ![Publishers page image](assets/documentation/publishers.png)
 
+## Future Features 
+
+* A 'Language' will be added in the navigation bar that would be help the users to translate the page into Arabic and Swedish to help users who doesn't know the English language.
+* This would make the site closer to the user and more understandable.
+* 'Gallary' page will be added for each annual exhibition that includes images of different activities that  take place in the exhibition.
+
+[Back to top](<#contents>)
+
+# Technologies Used
+* [HTML5](https://html.spec.whatwg.org/) - provides the content and structure for the website.
+* [CSS](https://www.w3.org/Style/CSS/Overview.en.html) - styling html pages.
+* [Gitpod](https://www.gitpod.io/#get-started) - used to deploy the website.
+* [Github](https://github.com/) - used to host and edit the website.
+
+[Back to top](<#contents>)
+
+
+# Testing
+
+Please refer to [**_here_**](TESTING.md) for more information on testing Wawas Woods.
+
+[Back to top](<#contents>)
