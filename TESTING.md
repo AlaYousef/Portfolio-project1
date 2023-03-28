@@ -39,6 +39,7 @@ Arabic Book Fair was also tested using [Google Lighthouse](https://developers.go
 
     
 ![W3C css validator test result](assets/documentation/css-errors.png)
+The errors fixed by adding 'px' unit to the height, and add a scale value, but it was deleted because it is not used. 
 
 * ### Unresolved
     * The background animation in about-us page does not work as expected on Firefox page.

@@ -154,3 +154,17 @@ Arab Book Fair site is set up to be simple, clear and easy to use. It contains m
 Please refer to [**_here_**](TESTING.md) for more information on testing Wawas Woods.
 
 [Back to top](<#contents>)
+
+# Deployment
+
+### **To deploy the project**
+The project was deployed to GitHub pages by these steps:
+  1. In the GitHub repository, navigate to the **Settings** tab.
+  2. Once in Settings, navigate to the **Pages** tab on the left hand side.
+  3. Under **Source**, select the branch to **master**, then click **save**.
+  4. Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
+
+![GitHub pages deployed image](assets/documentation/deployment.png)
+
+  The live link to the Github repository can be found here - https://alayousef.github.io/Portfolio-project1/
+
