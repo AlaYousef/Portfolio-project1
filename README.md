@@ -168,3 +168,30 @@ The project was deployed to GitHub pages by these steps:
 
   The live link to the Github repository can be found here - https://alayousef.github.io/Portfolio-project1/
 
+  
+# Credits
+### Content
+
+* The font is from [Google Fonts](https://fonts.google.com/).
+* The map is embedded from [Google Maps](https://www.google.com/maps).
+* The colour palate was compiled by [Muzli Colors](https://colors.muz.li/).
+* The icons came from [Font Awesome](https://fontawesome.com/).
+* The form validation idea came from a [Code institute](https://learn.codeinstitute.net/courses/course-v1:CodeInstitute+HE101+2020/courseware/fcc67a894619420399970ae84fc4802f/05a72bc3e032457d8a3d108d33656c72/).
+* The code for the Safari specific styling was inspired by an example on [Stack Overflow](https://stackoverflow.com/).
+* The inspiration for the Project page sliders came from this repository on [GitHub](https://gist.github.com/zhilinskiy/4603199).
+* [Balsamiq](https://balsamiq.com/wireframes/) was used to create the wireframes.
+
+
+### Media
+* The photos all came from the developer, [Ewan Colquhoun](https://www.linkedin.com/in/ewan-colquhoun-2b3535213/).
+* The photos were compressed using [Compressor](https://compressor.io/).
+
+[Back to top](<#contents>)
+
+# Acknowledgements
+The site was completed as a Portfolio 1 Project piece for the Full Stack Software Developer (e-Commerce) Diploma at the [Code Institute](https://codeinstitute.net/). As such I would like to thank my mentor [Precious Ijege](https://www.linkedin.com/in/precious-ijege-908a00168/), the Slack community, and all at the Code Institute for their help and support. Wawas Woods is a fictional company but it exists in everything but the business title. Currently it is more of a hobby!
+
+Ewan Colquhoun 2021.
+
+[Back to top](<#contents>)
+
