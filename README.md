@@ -182,8 +182,6 @@ To fork the Arabic Book Fair repository:
 ### **To create a local clone of this project**
 The method from cloning a project from GitHub is below:
 
-To clone the empowered repository:
-
 1. Log in (or sign up) to GitHub.
 2. Go to the repository for this project, [AlaYousef/Portfolio-project1](https://github.com/AlaYousef/Portfolio-project1)
 3. Click on the code button, select whether you would like to clone with HTTPS, SSH or GitHub CLI and copy the link shown.
