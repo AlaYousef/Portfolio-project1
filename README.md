@@ -170,7 +170,30 @@ The project was deployed to GitHub pages by these steps:
 
   The live link to the Github repository can be found here - https://alayousef.github.io/Portfolio-project1/
 
-  
+
+### **To fork the repository on GitHub**
+To fork the Arabic Book Fair repository:
+
+1. Log in (or sign up) to Github.
+2. Go to the repository for this project, [AlaYousef/Portfolio-project1](https://github.com/AlaYousef/Portfolio-project1)
+3. Click the Fork button in the top right corner.
+
+
+### **To create a local clone of this project**
+The method from cloning a project from GitHub is below:
+
+To clone the empowered repository:
+
+1. Log in (or sign up) to GitHub.
+2. Go to the repository for this project, [AlaYousef/Portfolio-project1](https://github.com/AlaYousef/Portfolio-project1)
+3. Click on the code button, select whether you would like to clone with HTTPS, SSH or GitHub CLI and copy the link shown.
+4. Open the terminal in your code editor and change the current working directory to the location you want to use for the cloned directory.
+5. Type 'git clone' into the terminal and then paste the link you copied in step 3. Press enter.
+
+
+
+[Back to top](<#contents>)
+
 # Credits
 ### Content
 
@@ -179,7 +202,8 @@ The project was deployed to GitHub pages by these steps:
 * The colour palate was compiled by [Muzli Colors](https://colors.muz.li/).
 * The icons came from [Font Awesome](https://fontawesome.com/).
 * The form validation idea came from [Code institute](https://learn.codeinstitute.net/courses/course-v1:CodeInstitute+HE101+2020/courseware/fcc67a894619420399970ae84fc4802f/05a72bc3e032457d8a3d108d33656c72/).
-* The inspiration for the Project page sliders came from this repository on [GitHub](https://gist.github.com/zhilinskiy/4603199).
+* The inspiration for the Project pages came from this repository on [GitHub](https://github.com/kera-cudmore/love-maths).
+* In writing readme file, the readme file was used from this repository on [GitHub](https://github.com/kera-cudmore/love-maths/blob/main/README.md).
 
 
 ### Media
