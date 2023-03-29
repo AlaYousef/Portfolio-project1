@@ -95,7 +95,7 @@ Arab Book Fair site is set up to be simple, clear and easy to use. It contains m
   * ### Fair-info section
     * Fair info section lets the user know all details about the exhibition. Including the time, date and location, in addition to inforamtion about the activities that will be in the exhibition.
 
-    * An intended map will help the user to get the exact  location for the exhibition 
+    * An intended map will help the user to get the exact location for the exhibition 
 
 ![Fair-info image](assets/documentation/fair-info.png)
 [Back to top](<#contents>)
@@ -103,7 +103,7 @@ Arab Book Fair site is set up to be simple, clear and easy to use. It contains m
 
 * ### Footer
     
-    * Footer section include links to the relevent social media sites for Arab Book Fair in Sweden. And the links to social media platforms will open in a new tab to allow easy of navigation for the user.
+    * Footer section include links to the relevent social media sites for Arabic Book Fair in Sweden. And the links to social media platforms will open in a new tab to allow easy of navigation for the user.
     * The social media will help the user in research into Sweden Arab Book Fair pages in social media.
     
 ![Footer image](assets/documentation/footer.png)
@@ -112,7 +112,7 @@ Arab Book Fair site is set up to be simple, clear and easy to use. It contains m
 
 * ### About Us Page
 
-    * About us page give the user an overview about what is the arab book fair in Sweden, responsible parts and the reason for choosing the city in which it will be held.
+    * About us page give the user an overview about what is the arab book fair in Sweden, responsible parts and the reason for choosing the city in which the exhibition will be held.
 
 ![About us image](assets/documentation/about.png)
 [Back to top](<#contents>)
@@ -122,8 +122,8 @@ Arab Book Fair site is set up to be simple, clear and easy to use. It contains m
 * ### Contact Us Page
 
     * This page will allow the user to get contact to Arab book fair to inquire about something related to the exhibition or book a specific books to be available in the exhibition.
-    * The user will be asked to submit their full name, phone number, email address and the message he want.
-    * The user should fill out the form completly to be sent, otherwise he will be asked to enter the missing information.
+    * The users will be asked to submit their full name, email address, phone number and the message he want.
+    * The users should fill out the form completly to be sent, otherwise he will be asked to enter the missing information.
     
 ![Contact Us page image](assets/documentation/contact.png)
 [Back to top](<#contents>)
@@ -178,22 +178,15 @@ The project was deployed to GitHub pages by these steps:
 * The map is embedded from [Google Maps](https://www.google.com/maps).
 * The colour palate was compiled by [Muzli Colors](https://colors.muz.li/).
 * The icons came from [Font Awesome](https://fontawesome.com/).
-* The form validation idea came from a [Code institute](https://learn.codeinstitute.net/courses/course-v1:CodeInstitute+HE101+2020/courseware/fcc67a894619420399970ae84fc4802f/05a72bc3e032457d8a3d108d33656c72/).
-* The code for the Safari specific styling was inspired by an example on [Stack Overflow](https://stackoverflow.com/).
+* The form validation idea came from [Code institute](https://learn.codeinstitute.net/courses/course-v1:CodeInstitute+HE101+2020/courseware/fcc67a894619420399970ae84fc4802f/05a72bc3e032457d8a3d108d33656c72/).
 * The inspiration for the Project page sliders came from this repository on [GitHub](https://gist.github.com/zhilinskiy/4603199).
-* [Balsamiq](https://balsamiq.com/wireframes/) was used to create the wireframes.
 
 
 ### Media
-* The photos all came from the developer, [Ewan Colquhoun](https://www.linkedin.com/in/ewan-colquhoun-2b3535213/).
-* The photos were compressed using [Compressor](https://compressor.io/).
+* The images of home, about us, contact us pages backgrounds came from ,[Pixel](https://www.pexels.com/search/pixel/).
+* The images of publishers page links came from [ArabiskaBazar](https://arabiskabazar.se/).
 
 [Back to top](<#contents>)
 
-# Acknowledgements
-The site was completed as a Portfolio 1 Project piece for the Full Stack Software Developer (e-Commerce) Diploma at the [Code Institute](https://codeinstitute.net/). As such I would like to thank my mentor [Precious Ijege](https://www.linkedin.com/in/precious-ijege-908a00168/), the Slack community, and all at the Code Institute for their help and support. Wawas Woods is a fictional company but it exists in everything but the business title. Currently it is more of a hobby!
 
-Ewan Colquhoun 2021.
-
-[Back to top](<#contents>)
 
