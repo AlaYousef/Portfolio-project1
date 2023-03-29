@@ -44,10 +44,8 @@ Welcome to the journey through <a href="https://alayousef.github.io/Portfolio-pr
 * [**Testing**](#testing)
 
 * [**Credits**](#credits)
-  * [**Code Used**](#code-used)
   * [**Content**](#content)
   * [**Media**](#media)
-  * [**Acknowledgments**](#acknowledgments)
 
 ---
 
