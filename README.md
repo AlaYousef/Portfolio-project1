@@ -2,7 +2,7 @@
 Arabic book fair is an exhibition for Arabic books in Sweden, Malmö city. The site targets Arabs in Sweden, where it will be useful to help in informing about details of the annual exhibition that will be held in addition to help people to reserve books from arabs countries to be available in the exhibition. 
 
 
-Welcome to the journey through <a href="https://alayousef.github.io/Portfolio-project1/" target="_blank" rel="noopener">Arab Book Fair</a>
+Welcome to the journey through <a href="https://alayousef.github.io/Portfolio-project1/" target="_blank" rel="noopener">Arabic Book Fair</a>
 
 ![Arab book fair responsive design](assets/documentation/responsive.png)
 
@@ -34,23 +34,20 @@ Welcome to the journey through <a href="https://alayousef.github.io/Portfolio-pr
 
     * [**Future Features**](<#future-features>)
 
-* [Technologies Used](#technologies-used)
-  * [Languages Used](#languages-used)
-  * [Frameworks, Libraries & Programs Used](#frameworks-libraries--programs-used)
+* [**Technologies Used**](#technologies-used)
+  
+* [**Deployment**](#deployment)
+    * [**Local Development**](#local-development)
+    * [**How to Fork**](#how-to-fork)
+    * [**How to Clone**](#how-to-clone)
 
-* [Deployment & Local Development](#deployment--local-development)
-  * [Deployment](#deployment)
-  * [Local Development](#local-development)
-    * [How to Fork](#how-to-fork)
-    * [How to Clone](#how-to-clone)
+* [**Testing**](#testing)
 
-* [Testing](#testing)
-
-* [Credits](#credits)
-  * [Code Used](#code-used)
-  * [Content](#content)
-  * [Media](#media)
-  * [Acknowledgments](#acknowledgments)
+* [**Credits**](#credits)
+  * [**Code Used**](#code-used)
+  * [**Content**](#content)
+  * [**Media**](#media)
+  * [**Acknowledgments**](#acknowledgments)
 
 ---
 
@@ -159,7 +156,7 @@ Please refer [**_here_**](TESTING.md) for more information on testing Wawas Wood
 
 # Deployment
 
-### **To deploy the project**
+### To deploy the project
 The project was deployed to GitHub pages by these steps:
   1. In the GitHub repository, navigate to the **Settings** tab.
   2. Once in Settings, navigate to the **Pages** tab on the left hand side.
@@ -170,8 +167,9 @@ The project was deployed to GitHub pages by these steps:
 
   The live link to the Github repository can be found here - https://alayousef.github.io/Portfolio-project1/
 
+### Local Development
 
-### **To fork the repository on GitHub**
+#### How to Fork
 To fork the Arabic Book Fair repository:
 
 1. Log in (or sign up) to Github.
@@ -179,7 +177,7 @@ To fork the Arabic Book Fair repository:
 3. Click the Fork button in the top right corner.
 
 
-### **To create a local clone of this project**
+#### How to Clone
 The method from cloning a project from GitHub is below:
 
 1. Log in (or sign up) to GitHub.
