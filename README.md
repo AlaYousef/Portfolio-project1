@@ -200,7 +200,6 @@ The method from cloning a project from GitHub is below:
 * The colour palate was compiled by [Muzli Colors](https://colors.muz.li/).
 * The icons came from [Font Awesome](https://fontawesome.com/).
 * The form validation idea came from [Code institute](https://learn.codeinstitute.net/courses/course-v1:CodeInstitute+HE101+2020/courseware/fcc67a894619420399970ae84fc4802f/05a72bc3e032457d8a3d108d33656c72/).
-* The inspiration for the Project pages came from this repository on [GitHub](https://github.com/kera-cudmore/love-maths).
 * In writing readme file, the readme file was used from this repository on [GitHub](https://github.com/kera-cudmore/love-maths/blob/main/README.md).
 
 

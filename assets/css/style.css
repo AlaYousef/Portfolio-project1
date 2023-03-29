@@ -322,8 +322,7 @@ button {
     background-size:cover;
     background-position: center;
     background-repeat: no-repeat;
-    border-radius: 10px;
-
+    
    	animation-name: animation;
 	animation-duration: 15s;
 	
