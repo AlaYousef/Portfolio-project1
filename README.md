@@ -1,5 +1,5 @@
 # **Arabic Book Fair**
-Arabic book fair is an exhibition for Arab books in Sweden in Malmö city. The site targets Arabs in Sweden, where it will be useful to help in informing about the details of the annual exhibition that will be held in addition to help people to reserve books from arabs countries to be available in the exhibition. 
+Arabic book fair is an exhibition for Arabic books in Sweden, Malmö city. The site targets Arabs in Sweden, where it will be useful to help in informing about details of the annual exhibition that will be held in addition to help people to reserve books from arabs countries to be available in the exhibition. 
 
 
 Welcome to the journey through <a href="https://alayousef.github.io/Portfolio-project1/" target="_blank" rel="noopener">Arab Book Fair</a>
@@ -22,15 +22,14 @@ Welcome to the journey through <a href="https://alayousef.github.io/Portfolio-pr
          * [Backround-cover-text](<#background-cover>)
          * [Fair-info section](<#fair-info>)
          * [Footer](<#footer>)
-    * [**About us page**](<#about-us>)
-        * About us 
-      
+    * [**About Us Page**](<#about-us-page>)
+        * About us information      
             
-    * [**Contact us page**](<#contact-us>)
+    * [**Contact Us Page**](<#contact-us-page>)
        * Contact details
        
     
-    * [**Publishers page**](<#publishers>)
+    * [**Publishers Page**](<#publishers-page>)
         * Publishers houses
 
     * [**Future Features**](<#future-features>)
@@ -109,7 +108,7 @@ Arab Book Fair site is set up to be simple, clear and easy to use. It contains m
 [Back to top](<#contents>)
 
 
-* ### About us page
+* ### About Us Page
 
     * About us page give the user an overview about what is the arab book fair in Sweden, responsible parts and the reason for choosing the city in which it will be held.
 
@@ -118,21 +117,22 @@ Arab Book Fair site is set up to be simple, clear and easy to use. It contains m
 
 
 
-* ### Contact us page
+* ### Contact Us Page
 
     * This page will allow the user to get contact to Arab book fair to inquire about something related to the exhibition or book a specific books to be available in the exhibition.
     * The user will be asked to submit their full name, phone number, email address and the message he want.
     * The user should fill out the form completly to be sent, otherwise he will be asked to enter the missing information.
     
 ![Contact Us page image](assets/documentation/contact.png)
+[Back to top](<#contents>)
 
 
-* ### Publishers page
+* ### Publishers Page
     * The publishers page will provide the user with supporting images withe the most imporatnt publishing houses that will participate in the exhibition.
     * It provides a direct link that opens in a new tab back to see the books for each publishing houses that will be available in the exhibition.
 
 ![Publishers page image](assets/documentation/publishers.png)
-
+[Back to top](<#contents>)
 ## Future Features 
 
 * A 'Language' will be added in the navigation bar that would be help the users to translate the page into Arabic and Swedish to help users who doesn't know the English language. This would make the site closer to the user and more understandable.
