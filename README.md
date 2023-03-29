@@ -59,14 +59,16 @@ Welcome to the journey through <a href="https://alayousef.github.io/Portfolio-pr
 
 ### Colour Scheme
 
-The colour scheme which chosen is one based on blue colour in different shades. Blue considered one of the calm and comfort colors, carries the meanings of avoidence of tension and ability to communicates with others. This is something that we want hopefully pass onto the user. In addition to, foreground information is never distracted the backgrounds.
+The colour scheme which chosen is one based on blue colour in different shades. Blue considered one of the calm and comfort colors, carries the meanings of avoidence of tension and ability to communicates with others. This is something that we want hopefully pass onto the user. In addition to, dark blue helped to prevent distraction between foreground information and backgrounds.
 
 ![Colour Palate image](assets/documentation/colour-pallet.png)
+[Back to top](<#contents>)
 
 ### Typography
 The fonts chosen were 'merriweather' with weight 400 Italic style for the headings and the body text.
 
 'Merriweather' was chosen to give the user a comfortable feeling while reading. It's easy, clear and understandable. This font is imported from [Google Fonts](https://fonts.google.com/specimen/Merriweather?query=Merriweather)
+
 [Back to top](<#contents>)
 
 ---
@@ -151,7 +153,7 @@ Arab Book Fair site is set up to be simple, clear and easy to use. It contains m
 
 # Testing
 
-Please refer to [**_here_**](TESTING.md) for more information on testing Wawas Woods.
+Please refer [**_here_**](TESTING.md) for more information on testing Wawas Woods.
 
 [Back to top](<#contents>)
 

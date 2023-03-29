@@ -1,8 +1,9 @@
 # Testing
-## Code Validation
-The Arabic Book Fair site has be tested. All pages has been run through the [W3C html Validator](https://validator.w3.org/) and the [W3C CSS Validator](https://jigsaw.w3.org/css-validator/). One error were found on the home page. After fix and retest, no errors were found. 
 
-The HTML validator results for the whole site are below:
+## Code Validation
+The Arabic Book Fair site code has be tested. All pages has been run through the [W3C html Validator](https://validator.w3.org/) and the [W3C CSS Validator](https://jigsaw.w3.org/css-validator/). two errors were found on CSS file. After fix and retest, no errors were found. 
+
+The HTML validator results for all pages are below:
 
 ![W3C Validator test result](assets/documentation/html-validator.png)
 
@@ -24,7 +25,7 @@ Except background animation for about-us page on Firefox, animatoin appears imag
 
 ## Light House
 
-Arabic Book Fair was also tested using [Google Lighthouse](https://developers.google.com/web/tools/lighthouse) that provided by chrome Developer Tool to test the site for the following:
+Arabic Book Fair was also tested using [Google Lighthouse](https://developers.google.com/web/tools/lighthouse) that provided by chrome Developer Tool for the following:
 * Performance - How the page performs while loading.
 * Accessibility - Is the site acccessible for users.
 * Best Practices - Site conforms to industry best practices.
@@ -42,4 +43,4 @@ Arabic Book Fair was also tested using [Google Lighthouse](https://developers.go
 The errors fixed by adding 'px' unit to the height, and add a scale value, but it was deleted because it is not used. 
 
 * ### Unresolved
-    * The background animation in about-us page does not work as expected on Firefox page.
+    * The background animation in about-us page does not work as expected on Firefox browser.
